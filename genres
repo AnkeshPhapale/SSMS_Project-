@@ -1,0 +1,15 @@
+REM INSERTING into GENRES
+SET DEFINE OFF;
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1001','Action');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1002','Adventure');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1003','Animation');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1004','Biography');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1005','Comedy');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1006','Crime');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1007','Drama');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1008','Horror');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1009','Music');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1010','Mystery');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1011','Romance');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1012','Thriller');
+Insert into GENRES (GEN_ID,GEN_TITLE) values ('1013','War');

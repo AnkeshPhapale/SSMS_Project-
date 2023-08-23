@@ -1,0 +1,26 @@
+REM INSERTING into ACTOR
+SET DEFINE OFF;
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('101','Stewart','James','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('102','Kerr','Deborah','F');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('103','OToole','Peter','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('104','De Niro','Robert','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('105','Abraham','F. Murray','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('106','Ford','Harrison','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('107','Kidman','Nicole','F');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('108','Baldwin','Stephen','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('109','Nicholson','Jack','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('110','Wahlberg','Mark','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('111','Allen','Woody','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('112','Danes','Claire','F');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('113','Robbins','Tim','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('114','Spacey','Kevin','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('115','Winslet','Kate','F');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('116','Williams','Robin','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('117','Voight','Jon','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('118','McGregor','Ewan','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('119','Bale','Christian','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('120','Gyllenhaal','Maggie','F');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('121','Patel','Dev','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('122','Weaver','Sigourney','F');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('123','Aston','David','M');
+Insert into ACTOR (ACT_ID,ACT_LNAME,ACT_FNAME,ACT_GENDER) values ('124','Astin','Ali','F');

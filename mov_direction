@@ -1,0 +1,25 @@
+REM INSERTING into MOV_DIRECTION
+SET DEFINE OFF;
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('201','901');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('202','902');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('203','903');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('204','904');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('205','905');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('206','906');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('207','907');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('208','908');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('209','909');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('210','910');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('211','911');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('212','912');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('213','913');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('214','914');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('215','915');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('216','916');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('217','917');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('218','918');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('219','919');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('220','920');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('218','921');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('215','922');
+Insert into MOV_DIRECTION (DIR_ID,MOV_ID) values ('221','923');

@@ -1,0 +1,21 @@
+REM INSERTING into MOVIE_GENERES
+SET DEFINE OFF;
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('922','1001');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('917','1002');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('903','1002');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('912','1003');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('911','1005');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('908','1006');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('913','1006');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('926','1007');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('928','1007');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('918','1007');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('921','1007');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('902','1008');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('923','1009');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('907','1010');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('927','1010');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('901','1010');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('914','1011');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('906','1012');
+Insert into MOVIE_GENERES (MOV_ID,GEN_ID) values ('904','1013');

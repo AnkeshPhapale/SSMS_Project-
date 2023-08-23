@@ -1,0 +1,22 @@
+REM INSERTING into REVIEWVER
+SET DEFINE OFF;
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9001','Righty Sock');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9002','Jack Malvern');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9003','Flagrant Baronessa');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9004','Alec Shaw');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9005',null);
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9006','Victor Woeltjen');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9007','Simon Wright');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9008','Neal Wruck');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9009','Paul Monks');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9010','Mike Salvati');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9011',null);
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9012','Wesley S. Walker');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9013','Sasha Goldshtein');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9014','Josh Cates');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9015','Krug Stillo');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9016','Scott LeBrun');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9017','Hannah Steele');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9018','Vincent Cadena');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9019','Brandt Sponseller');
+Insert into REVIEWVER (REV_ID,REV_NAME) values ('9020','Richard Adams');

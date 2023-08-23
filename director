@@ -1,0 +1,25 @@
+REM INSERTING into DIRECTOR
+SET DEFINE OFF;
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('201','Alfred','Hitchcock');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('202','Jack','Clayton');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('203','David','Lean');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('204','Michael','Cimino');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('205','Milos','Forman');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('206','Ridley','Scott');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('207','Stanley','Kubrick');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('208','Bryan','Singer');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('209','Roman','Polanski');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('210','Paul','Thomas Anderson');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('211','Woody','Allen');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('212','Hayao','Miyazaki');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('213','Frank','Darabont');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('214','Sam','Mendes');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('215','James','Cameron');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('216','Gus','Van Sant');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('217','John','Boorman');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('218','Danny','Boyle');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('219','Christopher','Nolan');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('220','Richard','Kelly');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('221','Kevin','Spacey');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('222','Andrei','Tarkovsky');
+Insert into DIRECTOR (DIR_ID,DIR_FNAME,DIR_LNAME) values ('223','Peter','Jackson');

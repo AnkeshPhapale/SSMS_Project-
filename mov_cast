@@ -1,0 +1,25 @@
+REM INSERTING into MOV_CAST
+SET DEFINE OFF;
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('101','901','John Scottie Ferguson');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('102','902','Miss Giddens');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('103','903','T.E. Lawrence');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('104','904','Michael');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('105','905','Antonio Salieri');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('106','906','Rick Deckard');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('107','907','Alice Harford');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('108','908','McManus');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('110','910','Eddie Adams');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('111','911','Alvy Singer');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('112','912','San');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('113','913','Andy Dufresne');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('114','914','Lester Burnham');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('115','915','Rose DeWitt Bukater');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('116','916','Sean Maguire');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('117','917','Ed');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('118','918','Renton');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('120','920','Elizabeth Darko');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('121','921','Older Jamal');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('122','922','Ripley');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('114','923','Bobby Darin');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('109','909','J.J. Gittes');
+Insert into MOV_CAST (ACT_ID,MOV_ID,ROLE) values ('119','919','Alfred Borden');
